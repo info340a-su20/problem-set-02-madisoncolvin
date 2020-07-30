@@ -40,9 +40,13 @@ ul{
     padding-top: .5rem;
     display: inline-block;
 }
-/* #7 icon*/
 .searchBox{
-    float: right;
+   float: right;
+}
+.searchButton{
+    height: 2.5rem;
+    font-size: 1.5rem;
+    padding: .3rem;
 }
 input{
     height: 2.5rem;
@@ -60,7 +64,6 @@ link :active{
 link{
     padding: .8rem;
 }
-/* add ischool image*/
 span{
     padding-left:1em;
     padding-right:1em;
